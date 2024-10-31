@@ -1,0 +1,7 @@
+body {
+    background: rgb(77, 185, 167);
+}
+
+body .content p {
+    color: blueviolet;
+}
